@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ben and I'm a Software Engineering student from Perú.</p>
+<p align="left">My name is Ben and I'm a software developer from Perú.</p>
 
 ###
 
