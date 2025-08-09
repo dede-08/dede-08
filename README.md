@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">I enjoy collaborating with development teams, sharing ideas, and constantly learning to improve my skills and grow as a professional.</p>
+<p align="left">I enjoy collaborating with development teams, sharing ideas, and constantly learning to improve my skills and grow as a professional.
+Backend-oriented developer with complementary frontend skills.</p>
 
 ###
 
