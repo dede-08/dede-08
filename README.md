@@ -10,10 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dede-08.dede-08&"  />
-</div>
-
 ###
 
 <h1 align="center">hello friend☕</h1>
