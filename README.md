@@ -12,8 +12,15 @@
 
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-andr%C3%A9-alanya-guevara-785a96346/)
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <p align="center">
+  <a href="[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/ben-andr%C3%A9-alanya-guevara-785a96346/)" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ###
