@@ -9,8 +9,6 @@
   
 </div>
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ben-andr%C3%A9-alanya-guevara-785a96346/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,9 +20,7 @@
 
 ###
 
-
 ###
-
 
 <h3 align="left">👩‍💻  About Me</h3>
 
