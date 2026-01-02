@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I enjoy collaborating with development teams, sharing ideas, and constantly learning to improve my skills and grow as a professional. Backend-oriented developer with complementary frontend skills.</p>
+<p align="left">backend-oriented developer with complementary frontend skills, focused on creating efficient, scalable, and maintainable solutions. I enjoy collaborating in team-oriented environments, sharing knowledge, and continuously learning to deliver value through technology.</p>
 
 ###
 
