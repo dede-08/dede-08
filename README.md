@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">hello friend☕</h1>
+<h1 align="center">Hello friend☕</h1>
 
 ###
 
