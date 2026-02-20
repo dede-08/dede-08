@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">backend-oriented developer with complementary frontend skills, focused on creating efficient, scalable, and maintainable solutions. I enjoy collaborating in team-oriented environments, sharing knowledge, and continuously learning to deliver value through technology.</p>
+<p align="left">Backend-focused developer specialized in Java & Spring Boot, building scalable REST APIs and secure authentication systems. Experienced in Angular for modern frontends. Passionate about clean architecture and continuously learning to deliver value through technology.</p>
 
 ###
 
