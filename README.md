@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi, I'm Ben☕</h1>
+<h2 align="center">Hi, I'm Ben☕</h2>
 
 ###
 
