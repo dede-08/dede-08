@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">Backend-focused developer specialized in Java & Spring Boot, building scalable REST APIs and secure authentication systems. Experienced in Angular and React for modern frontends. Passionate about clean architecture and continuously learning to deliver value through technology.</p>
+<p align="left">Backend-focused Software Engineer specializing in Java, Spring Boot, Spring Security, and PostgreSQL. Experienced in developing secure REST APIs, authentication systems with JWT, and scalable backend architectures. Comfortable building modern frontends with Angular and React to deliver complete full-stack applications. Passionate about clean architecture, software design, and continuously learning new technologies.
+Currently interested in Backend Development, Microservices, Cloud, and Software Architecture.</p>
 
 ###
 
